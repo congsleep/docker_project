@@ -1,0 +1,15 @@
+version: "3"
+services:
+  postman_checks:
+      container_name: vieon_api_test
+      build: .
+      image: postman_checks
+      command:
+        run VieON_API.postman_collection.json
+        -e testing_environment.json -k
+        --globals=Platform.json
+        -r html,cli
+        --reporter-html-export reports/Restful_Booker_Test_Run.html
+        --reporter-html-template reports/templates/customTemplate.hbs
+      # volumes:
+      #   - ./src:/etc/newman

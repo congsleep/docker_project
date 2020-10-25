@@ -1,0 +1,30 @@
+[
+		{
+			"platform":"sony_androidtv"
+			
+		},
+		{
+			"platform":"lg_tv"
+			
+		},
+		{
+			"platform": "samsung_tv"
+			
+		},
+		{
+			"platform": "mobile_web"
+		
+		},
+		{
+			"platform": "android"
+			
+		},
+		{
+			"platform": "web"
+			
+		},
+		{
+			"platform": "ios"
+			
+		}
+]

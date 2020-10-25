@@ -1,0 +1,109 @@
+{
+	"id": "aa57bb27-5a0b-4eb5-8f96-6225d7e0be70",
+	"name": "Testing",
+	"values": [
+		{
+			"key": "baseurl",
+			"value": "https://testing-api.vieon.vn",
+			"enabled": true
+		},
+		{
+			"key": "auth",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDQ4MDczNTcsImp0aSI6IjQwZmEwZDdjOTk1N2YzOWMzOThmNjNkYWMxNDBlYzVjIiwiYXVkIjoiIiwiaWF0IjoxNjAyMjE1MzU3LCJpc3MiOiJWaWVPbiIsIm5iZiI6MTYwMjIxNTM1Niwic3ViIjoiYzk3NzEzMmMtZGE1YS1kOWQxLTI3YmQtYmRlMjcwNTZhOGU3Iiwic2NvcGUiOiJjbTpyZWFkIGNhczpyZWFkIGNhczp3cml0ZSBiaWxsaW5nOnJlYWQiLCJkaSI6IiIsInVhIjoiUG9zdG1hblJ1bnRpbWUvNy4yNi41IiwiZHQiOiJ3ZWIiLCJtdGgiOiJtb2JpbGVfbG9naW4iLCJtZCI6IiIsImlzcHJlIjowfQ.HjQkEPBIhu1u9Yn2J0muo8qiiLnyT0tN2xvLIdyLPew",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "mduyen021298@gmail.com",
+			"enabled": true
+		},
+		{
+			"key": "moblie_phone",
+			"value": "0582826577",
+			"enabled": true
+		},
+		{
+			"key": "ribbonDetail_id",
+			"value": "b8cac384-40d2-4fcb-8c8e-6d3bf23b73c3",
+			"enabled": true
+		},
+		{
+			"key": "VODdetail_id",
+			"value": "75b029cd-9b9c-4161-b5b8-26f311011bd3",
+			"enabled": true
+		},
+		{
+			"key": "eps_id",
+			"value": "709d20ca-b8d3-4743-834f-e021b4dbd70c",
+			"enabled": true
+		},
+		{
+			"key": "livetvCategory_id",
+			"value": "92706f07-47f5-45a1-8439-355b08e2ea39",
+			"enabled": true
+		},
+		{
+			"key": "livetv_id",
+			"value": "51accb2c-1de0-4a5c-9d8a-b139a22b9012",
+			"enabled": true
+		},
+		{
+			"key": "Artist_id",
+			"value": "16497aac-a789-4d6a-8c72-09f9e8dd6777",
+			"enabled": true
+		},
+		{
+			"key": "page_id",
+			"value": "5bf3b943-aea8-49c9-ba27-9c65ea09f9ee",
+			"enabled": true
+		},
+		{
+			"key": "ratingVOD_id",
+			"value": "70dee2d7-67e2-42f4-a7fc-d32591ba2905/4",
+			"enabled": true
+		},
+		{
+			"key": "auth-chuamuagoi",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDI4MzA3NTIsImp0aSI6IjRmMTY5Mzg1NzI3OWNhOWQ4NjgxZTczMzYyYzc2YmRmIiwiYXVkIjoiIiwiaWF0IjoxNjAwMjM4NzUyLCJpc3MiOiJWaWVPbiIsIm5iZiI6MTYwMDIzODc1MSwic3ViIjoiOGM0NDk5MTEtMWRlZC00ODVlLWMzOGEtYTA0M2Y0NGYxZjRlIiwic2NvcGUiOiJjbTpyZWFkIGNhczpyZWFkIGNhczp3cml0ZSBiaWxsaW5nOnJlYWQiLCJkaSI6ImI3Y2FiYjQxNTNmYjU2MTAyNTA2YzE0OWI2NmI0NzY3IiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODUuMC40MTgzLjEwMiBTYWZhcmkvNTM3LjM2IiwiZHQiOiIiLCJtdGgiOiJnb29nbGVfbG9naW4iLCJtZCI6IldpbmRvd3MgMTAiLCJpc3ByZSI6MH0.2RPWTFKBhXd_ZmQDpu7MvQzWzoF8YUbOmF9O1VIlo40",
+			"enabled": true
+		},
+		{
+			"key": "auth-muavipk",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDI4MjEzNzUsImp0aSI6IjcwNzhmMWE0NjQ3OWRhNjllYWU5NTJiMGZjYWM5YmMwIiwiYXVkIjoiIiwiaWF0IjoxNjAwMjI5Mzc1LCJpc3MiOiJWaWVPbiIsIm5iZiI6MTYwMDIyOTM3NCwic3ViIjoiMzY5ZWYxNWEtOTMyOC02OWUxLWZmZjYtOWJiNTk4MGNhZmQyIiwic2NvcGUiOiJjbTpyZWFkIGNhczpyZWFkIGNhczp3cml0ZSBiaWxsaW5nOnJlYWQiLCJkaSI6ImI3Y2FiYjQxNTNmYjU2MTAyNTA2YzE0OWI2NmI0NzY3IiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODUuMC40MTgzLjEwMiBTYWZhcmkvNTM3LjM2IiwiZHQiOiIiLCJtdGgiOiJnb29nbGVfbG9naW4iLCJtZCI6IldpbmRvd3MgMTAiLCJpc3ByZSI6MH0.wPACimCjbBlQU4Fz0CshOnZiO8RoUkB2D7ooLlhQbxc",
+			"enabled": true
+		},
+		{
+			"key": "authNonVip",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDUwNzA2NTUsImp0aSI6IjQ1MzA2NTBhN2ZkMTQ0OTVkMDdjZWE5YjMzMDNkYzA0IiwiYXVkIjoiIiwiaWF0IjoxNjAyNDc4NjU1LCJpc3MiOiJWaWVPbiIsIm5iZiI6MTYwMjQ3ODY1NCwic3ViIjoiMTRjM2Q5ODktMWViMS03Yzg1LWFjMDYtYmFmYzkzZjBjNWIwIiwic2NvcGUiOiJjbTpyZWFkIGNhczpyZWFkIGNhczp3cml0ZSBiaWxsaW5nOnJlYWQiLCJkaSI6IjEyMzQ1NiIsInVhIjoiUG9zdG1hblJ1bnRpbWUvNy4yNi41IiwiZHQiOiJ3ZWIiLCJtdGgiOiJtb2JpbGVfbG9naW4iLCJtZCI6IkxpbnV4IiwiaXNwcmUiOjB9.zF-ZCUXh9Dx_O6cZoU6B17J8Q-0GmkDXsoEo4bUXeM0",
+			"enabled": true
+		},
+		{
+			"key": "Encrypted_Data",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "Encrypted",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "dask_link_play",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "hls_link_play",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "keyword_search",
+			"value": "Người sắt 3",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-10-14T03:42:56.792Z",
+	"_postman_exported_using": "Postman/7.34.0"
+}
